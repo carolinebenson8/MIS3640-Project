@@ -1,21 +1,40 @@
 # 4.1 Project Proposal
 Due: 9/24
 
-The project proposal is worth 10% of the project grade.
-You should come to class with a document that describes the main idea of your project. We will have about 10 minutes to meet with each team, so we ask that you come to the meeting without your laptop, but with a printed version of your document. You should designate one of the two team members to take notes.
+# The Big Idea: 
+The main idea of this project is a domain compiler/aggregator for people who do yoga at all levels. The purpose of this compiler is to allow users to search anything they want to learn, read, and/or discover yoga in one domain/search engine. This would include instructional videos, clothing, and studios in the Wellesley area.
 
-You should push this proposal to your project GitHub repository. I recommend you use markdown format for this proposal. Your proposal should contain the seven sections listed below. We don't expect this proposal to be very long, but the more detail you provide here the better help and feedback when can provide your team:
+MVP example- zappos, google drive, name of product
 
-The Big Idea: What is the main idea of your project? What topics will you explore and what will you generate? What is your minimum viable product? What is a stretch goal?
+Our stretch goal is being able to compile data from all sources about yoga from beginner, intermediate, to advanced. 
 
-Learning Goals: Since this is a team project, you may want to articulate both shared and individual learning goals.
 
-Implementation Plan: this will probably be pretty vague initially. Perhaps at this early juncture you will have identified a library or a framework that you think will be useful for your project. If you don't have any idea how you will implement your project, provide a rough plan for how you will determine this information.
+# Learning Goals: 
+We both share the goal of wanting to learn how to build a program catered to our interests while being able to help others also interested in this topic. We hope to have a solid understanding of python and program building by the end of this course and project.
 
-Project schedule: You have 8 weeks (roughly) to finish the project. Sketch out a rough schedule for completing the project. Depending on your project, you may be able to do this in great specificity or you may only be able to give a broad outline. Additionally, longer projects come with increased uncertainty, and this schedule will likely need to be refined along the way.
+# Implementation Plan: 
+Researching/compiling specific data we want on our own
+*unsure how we come up with the plan to get all of the information into one database*
 
-Collaboration plan: How do you plan to collaborate with your teammates on this project? Will you split tasks up, complete them independently, and then integrate? Will you pair program the entire thing? Make sure to articulate your plan for successfully working together as a team. This might also include information about any software development methodologies you plan to use (e.g. agile development). Make sure to make clear why you are choosing this particular organizational structure.
 
-Risks: What do you view as the biggest risks to the success of this project?
+# Project schedule: 
+Week 1- Finalize the proposal
+Week 2- Begin research
+Week 3- Narrow down data gathered (5 local studios, 5 local clothing stores, 90 videos- 30 beginner, 30 intermediate, 30 advanced)
+Week 4- Create video database 
+Week 5- Create studio and clothing database/code
+Week 6- Work on formatting/design
+Week 7- Review/edit all code, database, work
+Week 8- Project launch
 
-Additional Course Content: What are some topics that we might cover in class that you think would be especially helpful for your project?
+
+# Collaboration plan: 
+We plan to work on the majority of the project together. If there are any scheduling issues where we cannot meet together in person or over zoom, we will split up accordingly. We have worked together in the past, we have played on the lacrosse team together at Babson, we have years of experience working together. We are unsure what software development methodologies we are going to use, we plan to meet with you frequently about any questions, concerns, and advice you may have for us as we move forward. 
+
+# Risks: 
+The biggest risk we see to the success of our project is trying to add too much data in our segments. For example, trying to add more information about the studio than we need. We feel it would be important to include things like the class schedule but it might be difficult to include that in our code.  
+
+# Additional Course Content: 
+One of the most helpful topics we will cover is interface design. Not only is the coding very critical, but the design and aesthetic for the user is just as important. This program must be easy to navigate for any user. navigate and also seem like a reputable source.
+
+Another helpful topic that will be further discussed is IO programming. We are not fully familiar with this topic as we have not covered it yet but based on reading about it in GitHub, we feel that it will be helpful towards the success of our project. 
