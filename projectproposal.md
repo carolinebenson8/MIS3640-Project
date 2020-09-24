@@ -6,8 +6,7 @@ The main idea of this project is a domain compiler/aggregator for people who do 
 
 MVP- Yoga U
 
-Our stretch goal is being able to compile data from all sources about yoga from beginner, intermediate, to advanced. 
-
+Our stretch goal is being able to compile data from all sources about yoga from beginner, intermediate, to advanced. The core functionality of the database would be to make it easier for aspiring yogis at all levels to come to this area and find any and all information they want about classes, apparel, postions, etc. in one place rather than going through multiple sources on their own.
 
 # Learning Goals: 
 We both share the goal of wanting to learn how to build a program catered to our interests while being able to help others also interested in this topic. We hope to have a solid understanding of python and program building by the end of this course and project.
