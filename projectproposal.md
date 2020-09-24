@@ -4,7 +4,7 @@ Due: 9/24
 # The Big Idea: 
 The main idea of this project is a domain compiler/aggregator for people who do yoga at all levels. The purpose of this compiler is to allow users to search anything they want to learn, read, and/or discover yoga in one domain/search engine. This would include instructional videos, clothing, and studios in the Wellesley area.
 
-MVP example- zappos, google drive, name of product
+MVP- Yoga U
 
 Our stretch goal is being able to compile data from all sources about yoga from beginner, intermediate, to advanced. 
 
